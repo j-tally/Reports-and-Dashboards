@@ -1,4 +1,4 @@
-# Reports-and-Dashboards
+# Reports and Dashboards
 
 #### Links to dashboard and report examples from different applications and software. 
 
